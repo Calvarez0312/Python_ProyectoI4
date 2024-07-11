@@ -38,6 +38,20 @@ entre casos activos y recuperados la cobertura de vacunacion y la reduccion de c
 estrategias de vacunacion y el impacto de factores como la urbanizacion y las condiciones preexistentes en la propagacion del   COVID-19.
 Algunas de las visualizaciones realizadas en este avance.
 
+![Casos activos](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Grafico%20de%20linea%20casos%20activos%20.jpg)
+![Grafico de lineas](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Grafico%20de%20linea.jpg)
+![Mortalidad](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Grafico%20de%20barras%20mortalidad%20.jpg)
+![diabetes y tabaquismo](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Grafico%20de%20barras%20diabetes%20y%20tabaquismo.jpg)
+
+## Integracion de Power BI
+Se diseño enPower Bi un dashboard interactivo que reprrsenta de manera efectiva los resultados del analisis, con visualizaciones interactivas que permite a los usuarios explorar la incidencia de COVID-19, la cobertura de vacunacion y variables relacionales. Es importante destacar la importancia de esta etapa para trasladar el analisis tecnico a una plataforma que facilite la comprension intuitiva de los datos por parte de los directivos, identificando areas prioritarias para la expansion.
+
+![Reporte general](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Reporte%20general%20Covid19.jpg)
+![Poblacion e incidencias](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Poblacion%20e%20incidencias%20.jpg)
+![Infraestructura y economia](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Infraestructura%20y%20economia.jpg)
+
+
+
 
 
 
