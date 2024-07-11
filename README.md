@@ -27,6 +27,12 @@ graficos de barra, mapas de calor y diagramas de dispersion para comprender la d
 Identifique tendencias y patrones a largo plazo, considerando factores como la temperatura y las variaciones geograficas en la propagacion de la enfermedad. Este analisis detallado permitira identificar areas prioritarias para asiganar recuersos e implementar medidas preventivas y de control.
 A continuacion algunas de las visualizaciones realizadas en el notbook.
 
+![Varianza, mediana](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Moda%2C%20varianza%2C%20etc.jpg )
+![Matriz de correlacion](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Matriz%20de%20correlacion.jpg)
+![Histograma temperatura maxima](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Histograma%20temperatura%20maxima.jpg)
+![Histograma promedio Temperatura](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Histograma%20promedio%20temperatura.jpg)
+
+
 
 
 
