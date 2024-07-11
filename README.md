@@ -32,6 +32,14 @@ A continuacion algunas de las visualizaciones realizadas en el notbook.
 ![Histograma temperatura maxima](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Histograma%20temperatura%20maxima.jpg)
 ![Histograma promedio Temperatura](https://github.com/Calvarez0312/Python_ProyectoI4/blob/main/Imagenes%20Biogenesys/Histograma%20promedio%20temperatura.jpg)
 
+## EDA con Numpy y Pandas
+Realice un analisis exploratorio de datos mas profundo utilizando tecnicas avanzadas de pandas y numpy. Esto implica explorar series temporales para comprender la evolucion de elementos claves del dataset, como la relacion
+entre casos activos y recuperados la cobertura de vacunacion y la reduccion de casos entre otros. Este analisis detallado permite identificar patrones y tendencias adicionales, asi como tambien evaluar la efectividad de diferentes
+estrategias de vacunacion y el impacto de factores como la urbanizacion y las condiciones preexistentes en la propagacion del   COVID-19.
+Algunas de las visualizaciones realizadas en este avance.
+
+
+
 
 
 
